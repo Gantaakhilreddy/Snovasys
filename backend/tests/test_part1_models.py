@@ -141,3 +141,4 @@ class TestLedgerEntryModel:
                 amount=100.5, balance_after=0, seq=1, hash="abc",
                 kind=EntryKind.deposit, initiated_by="u1"
             )
+
